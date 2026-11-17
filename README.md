@@ -22,6 +22,6 @@ I build the layer between AI agents and everything else — MCP gateways, agent 
 
 ## Arc
 
-Biomedical R&D (3 yrs) → product management on India's first MCP-driven marketplace → production AI engineering. Every system I ship gets a gate that can fail and a number that can be read.
+Biomedical R&D (3 yrs) → product management on India's first MCP-driven marketplace → production AI engineering. Every system I ship gets a gate that has an observable traceable evidence logs that software factories can resolve
 
 **Reach:** phant0mhriju@gmail.com · [LinkedIn](https://www.linkedin.com/in/dey-h-ml972/) · Mumbai / remote
